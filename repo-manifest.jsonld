@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/pydantic-v2-startup-perf-bench/commit/be3e0622078c2291d94b5ae9e6d41ee521f3de2d",
       "git:hexsha": "be3e0622078c2291d94b5ae9e6d41ee521f3de2d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
