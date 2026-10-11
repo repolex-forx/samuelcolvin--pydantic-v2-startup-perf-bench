@@ -1,0 +1,11 @@
+{
+  "org": "samuelcolvin",
+  "repo": "pydantic-v2-startup-perf-bench",
+  "versions": [
+    {
+      "commit": "be3e0622078c2291d94b5ae9e6d41ee521f3de2d",
+      "tag": "",
+      "parsed_at": "2026-10-11T19:12:21.255510+00:00"
+    }
+  ]
+}
